@@ -2,8 +2,8 @@
 A beginner-level Exploratory Data Analysis (EDA) project using a Zomato dataset.
 
 Files
-- `Zomato.ipynb` — Main analysis notebook
-- `Zomato-data-.csv` — Dataset used
+- Zomato.ipynb — Main analysis notebook
+- Zomato-data-.csv — Dataset used
 
 Dataset Info
 - 148 restaurants
